@@ -1,10 +1,10 @@
 
-<h1 align = "center">🏆T-MinRF🏆</h1>
+<h1 align = "center">🏆T-MixRF🏆</h1>
 
 
 | 正面 | 反面 |
 | :---: | :---: |
-| ![alt text](./docs/README_img/T-MinRF_正面.png) | ![alt text](./docs/README_img/T-MinRF_反面.png) |
+| ![alt text](./docs/README_img/T-MixRF_正面.png) | ![alt text](./docs/README_img/T-MixRF_标识.png) |
 
 ---
 [English Version](README.md)

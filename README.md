@@ -1,8 +1,8 @@
-<h1 align = "center">🏆T-MinRF🏆</h1>
+<h1 align = "center">🏆T-MixRF🏆</h1>
 
 | Front | Back |
 | :---: | :---: |
-| ![alt text](./docs/README_img/T-MinRF_正面.png) | ![alt text](./docs/README_img/T-MinRF_反面.png) |
+| ![alt text](./docs/README_img/T-MixRF_正面.png) | ![alt text](./docs/README_img/T-MixRF_标识.png) | 
 
 
 Multi-protocol RF Development Board supporting various wireless communication standards
